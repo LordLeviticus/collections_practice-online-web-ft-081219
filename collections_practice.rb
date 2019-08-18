@@ -1,3 +1,3 @@
-sort_array_asc(integers)
- return_array = []
+def sort_array_asc(integers)
+  integers.sort
 end
