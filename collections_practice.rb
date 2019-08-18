@@ -1,3 +1,3 @@
 sort_array_asc(integers)
- return integers.sort
+ return_array = []
 end
