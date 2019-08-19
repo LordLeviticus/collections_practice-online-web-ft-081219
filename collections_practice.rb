@@ -25,3 +25,13 @@ end
 def reverse_array(integers) 
   integers.reverse
 end
+
+def kesha_maker
+end
+
+def find_a
+end
+
+def add_s
+end
+
