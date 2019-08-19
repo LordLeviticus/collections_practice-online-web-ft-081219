@@ -38,6 +38,10 @@ def find_a(array)
   end
 end
 
+def sum_array(integers)
+  
+end
+
 def add_s
 end
 
